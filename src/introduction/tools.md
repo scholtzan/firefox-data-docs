@@ -44,3 +44,5 @@ These tools have been retired and are no longer available.
 
 The [Telemetry Measurement Dashboard](https://telemetry.mozilla.org/new-pipeline/dist.html) (TMO) site was the 'venerable standby' of Firefox telemetry analysis tools.
 It is the predecessor to GLAM (see above). As of December 5, 2024, the data system underpinning it was turned off entirely; use GLAM instead.
+
+Alpha test sentence that should be kept as proposed.
