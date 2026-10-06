@@ -47,6 +47,5 @@ It is the predecessor to GLAM (see above). As of December 5, 2024, the data syst
 
 Alpha test sentence that should be kept as proposed.
 
-Beta test sentence that a reviewer will reword.
+Beta sentence, reworded by the reviewer before merging.
 
-Gamma test sentence that will be dropped.
